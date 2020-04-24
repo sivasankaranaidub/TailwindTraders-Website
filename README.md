@@ -1,4 +1,5 @@
 # Tailwind Traders Website
+[![Build Status](https://dev.azure.com/sivasankarabobba/Space%20Game%20-%20web%20-%20Delivery%20plans/_apis/build/status/sivasankaranaidub.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/sivasankarabobba/Space%20Game%20-%20web%20-%20Delivery%20plans/_build/latest?definitionId=2&branchName=master)
 
 ![Tailwind Traders Website](Documents/Images/Website.png)
 
